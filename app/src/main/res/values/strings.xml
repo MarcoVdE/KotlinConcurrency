@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AssignmentTwo</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="thread_activity">Thread Activity</string>
+    <string name="async_activity">Async Activity</string>
+    <string name="activity_thread">Activity Thread</string>
+    <string name="read_homer">READ HOMER</string>
+    <string name="result">Result</string>
+    <string name="word_check">Word Check</string>
+    <string name="word_search">Word search</string>
+    <string name="word_you_re_looking_for">Word you\'re looking for.</string>
+    <string name="initiate_count">Initiate Count</string>
+    <string name="actor_count">ACTOR COUNT</string>
+    <string name="co_routine_count">CO-ROUTINE COUNT</string>
+    <string name="thread_count">Thread Count</string>
+    <string name="ui_thread_count">UI Thread Count</string>
+    <string name="run_all_counts">RUN ALL COUNTS</string>
+    <string name="write_homer">WRITE HOMER</string>
+    <string name="write_all">WRITE ALL</string>
+    <string name="ui_thread_write">UI THREAD WRITE</string>
+    <string name="thread_write">THREAD WRITE</string>
+    <string name="actor_write">ACTOR WRITE</string>
+    <string name="co_routine_write">CO-ROUTINE WRITE</string>
+</resources>
